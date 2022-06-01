@@ -10,3 +10,4 @@ Steps to run the app
 - Try editing the ssid.json by adding/deleting new ssid object or modifying the existing attributes of objects 
 - On client window app will display the data it is sending to server
 - On server window app will display added, deleted or updated object details
+- Press Ctrl + c to exit from client and server processes
