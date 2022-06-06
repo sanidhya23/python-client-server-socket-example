@@ -11,3 +11,6 @@ Steps to run the app
 - On client window app will display the data it is sending to server
 - On server window app will display added, deleted or updated object details
 - Press Ctrl + c to exit from client and server processes
+
+Steps to run Unit test:
+- python3 -m unittest app_test.py
